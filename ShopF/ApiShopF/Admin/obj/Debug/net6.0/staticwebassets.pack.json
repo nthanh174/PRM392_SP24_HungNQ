@@ -1,0 +1,997 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Admin.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Admin.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\js\\item-add.js",
+      "PackagePath": "staticwebassets\\js\\item-add.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\js\\item-list.js",
+      "PackagePath": "staticwebassets\\js\\item-list.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\animate_it\\animate.css",
+      "PackagePath": "staticwebassets\\vendor\\animate_it\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\chart_js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\vendor\\chart_js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\counter_up\\counter_up.js",
+      "PackagePath": "staticwebassets\\vendor\\counter_up\\counter_up.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\data_table\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\vendor\\data_table\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\data_table\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\vendor\\data_table\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\data_table\\jquery.dataTables.min.css",
+      "PackagePath": "staticwebassets\\vendor\\data_table\\jquery.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\data_table\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\vendor\\data_table\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\feather-icons-web\\demo.css",
+      "PackagePath": "staticwebassets\\vendor\\feather-icons-web\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\feather-icons-web\\demo.js",
+      "PackagePath": "staticwebassets\\vendor\\feather-icons-web\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\feather-icons-web\\feather.css",
+      "PackagePath": "staticwebassets\\vendor\\feather-icons-web\\feather.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\feather-icons-web\\fonts\\Feather.svg",
+      "PackagePath": "staticwebassets\\vendor\\feather-icons-web\\fonts\\Feather.svg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\feather-icons-web\\fonts\\Feather.ttf",
+      "PackagePath": "staticwebassets\\vendor\\feather-icons-web\\fonts\\Feather.ttf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\feather-icons-web\\fonts\\Feather.woff",
+      "PackagePath": "staticwebassets\\vendor\\feather-icons-web\\fonts\\Feather.woff"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\feather-icons-web\\index.html",
+      "PackagePath": "staticwebassets\\vendor\\feather-icons-web\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\image_hover\\css\\imagehover.css",
+      "PackagePath": "staticwebassets\\vendor\\image_hover\\css\\imagehover.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\image_hover\\css\\imagehover.css.map",
+      "PackagePath": "staticwebassets\\vendor\\image_hover\\css\\imagehover.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\image_hover\\css\\imagehover.min.css",
+      "PackagePath": "staticwebassets\\vendor\\image_hover\\css\\imagehover.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\image_hover\\index.html",
+      "PackagePath": "staticwebassets\\vendor\\image_hover\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\slick\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\vendor\\slick\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\slick\\config.rb",
+      "PackagePath": "staticwebassets\\vendor\\slick\\config.rb"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\slick\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\vendor\\slick\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\slick\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\vendor\\slick\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\slick\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\vendor\\slick\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\slick\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\vendor\\slick\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\slick\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\vendor\\slick\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\slick\\slick-theme.css",
+      "PackagePath": "staticwebassets\\vendor\\slick\\slick-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\slick\\slick-theme.less",
+      "PackagePath": "staticwebassets\\vendor\\slick\\slick-theme.less"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\slick\\slick-theme.scss",
+      "PackagePath": "staticwebassets\\vendor\\slick\\slick-theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\slick\\slick.css",
+      "PackagePath": "staticwebassets\\vendor\\slick\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\slick\\slick.js",
+      "PackagePath": "staticwebassets\\vendor\\slick\\slick.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\slick\\slick.less",
+      "PackagePath": "staticwebassets\\vendor\\slick\\slick.less"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\slick\\slick.min.js",
+      "PackagePath": "staticwebassets\\vendor\\slick\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\slick\\slick.scss",
+      "PackagePath": "staticwebassets\\vendor\\slick\\slick.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\font\\summernote.eot",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\font\\summernote.eot"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\font\\summernote.ttf",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\font\\summernote.ttf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\font\\summernote.woff",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\font\\summernote.woff"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\font\\summernote.woff2",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\font\\summernote.woff2"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-ar-AR.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-ar-AR.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-ar-AR.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-ar-AR.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-bg-BG.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-bg-BG.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-bg-BG.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-bg-BG.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-ca-ES.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-ca-ES.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-ca-ES.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-ca-ES.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-cs-CZ.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-cs-CZ.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-cs-CZ.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-cs-CZ.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-da-DK.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-da-DK.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-da-DK.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-da-DK.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-de-DE.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-de-DE.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-de-DE.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-de-DE.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-el-GR.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-el-GR.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-el-GR.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-el-GR.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-es-ES.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-es-ES.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-es-ES.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-es-ES.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-es-EU.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-es-EU.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-es-EU.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-es-EU.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-fa-IR.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-fa-IR.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-fa-IR.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-fa-IR.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-fi-FI.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-fi-FI.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-fi-FI.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-fi-FI.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-fr-FR.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-fr-FR.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-fr-FR.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-fr-FR.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-gl-ES.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-gl-ES.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-gl-ES.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-gl-ES.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-he-IL.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-he-IL.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-he-IL.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-he-IL.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-hr-HR.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-hr-HR.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-hr-HR.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-hr-HR.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-hu-HU.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-hu-HU.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-hu-HU.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-hu-HU.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-id-ID.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-id-ID.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-id-ID.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-id-ID.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-it-IT.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-it-IT.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-it-IT.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-it-IT.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-ja-JP.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-ja-JP.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-ja-JP.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-ja-JP.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-ko-KR.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-ko-KR.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-ko-KR.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-ko-KR.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-lt-LT.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-lt-LT.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-lt-LT.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-lt-LT.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-lt-LV.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-lt-LV.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-lt-LV.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-lt-LV.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-mn-MN.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-mn-MN.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-mn-MN.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-mn-MN.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-nb-NO.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-nb-NO.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-nb-NO.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-nb-NO.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-nl-NL.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-nl-NL.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-nl-NL.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-nl-NL.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-pl-PL.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-pl-PL.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-pl-PL.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-pl-PL.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-pt-BR.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-pt-BR.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-pt-BR.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-pt-BR.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-pt-PT.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-pt-PT.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-pt-PT.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-pt-PT.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-ro-RO.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-ro-RO.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-ro-RO.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-ro-RO.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-ru-RU.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-ru-RU.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-ru-RU.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-ru-RU.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-sk-SK.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-sk-SK.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-sk-SK.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-sk-SK.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-sl-SI.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-sl-SI.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-sl-SI.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-sl-SI.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-sr-RS-Latin.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-sr-RS-Latin.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-sr-RS-Latin.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-sr-RS-Latin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-sr-RS.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-sr-RS.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-sr-RS.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-sr-RS.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-sv-SE.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-sv-SE.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-sv-SE.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-sv-SE.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-ta-IN.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-ta-IN.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-ta-IN.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-ta-IN.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-th-TH.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-th-TH.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-th-TH.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-th-TH.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-tr-TR.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-tr-TR.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-tr-TR.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-tr-TR.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-uk-UA.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-uk-UA.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-uk-UA.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-uk-UA.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-uz-UZ.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-uz-UZ.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-uz-UZ.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-uz-UZ.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-vi-VN.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-vi-VN.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-vi-VN.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-vi-VN.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-zh-CN.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-zh-CN.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-zh-CN.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-zh-CN.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-zh-TW.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-zh-TW.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\lang\\summernote-zh-TW.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\lang\\summernote-zh-TW.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\summernote-bs4.css",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\summernote-bs4.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\summernote-bs4.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\summernote-bs4.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\summernote-bs4.js.map",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\summernote-bs4.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\summernote-bs4.min.css",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\summernote-bs4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\summernote-bs4.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\summernote-bs4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\summernote-bs4.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\summernote-bs4.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\summernote-lite.css",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\summernote-lite.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\summernote-lite.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\summernote-lite.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\summernote-lite.js.map",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\summernote-lite.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\summernote-lite.min.css",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\summernote-lite.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\summernote-lite.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\summernote-lite.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\summernote-lite.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\summernote-lite.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\summernote.css",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\summernote.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\summernote.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\summernote.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\summernote.js.map",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\summernote.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\summernote.min.css",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\summernote.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\summernote.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\summernote.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\summer_note\\summernote.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\summer_note\\summernote.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\venobox\\venobox.css",
+      "PackagePath": "staticwebassets\\vendor\\venobox\\venobox.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\venobox\\venobox.min.js",
+      "PackagePath": "staticwebassets\\vendor\\venobox\\venobox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\way_point\\jquery.waypoints.js",
+      "PackagePath": "staticwebassets\\vendor\\way_point\\jquery.waypoints.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\way_point\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\vendor\\way_point\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\way_point\\noframework.waypoints.js",
+      "PackagePath": "staticwebassets\\vendor\\way_point\\noframework.waypoints.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\way_point\\noframework.waypoints.min.js",
+      "PackagePath": "staticwebassets\\vendor\\way_point\\noframework.waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\way_point\\shortcuts\\infinite.js",
+      "PackagePath": "staticwebassets\\vendor\\way_point\\shortcuts\\infinite.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\way_point\\shortcuts\\infinite.min.js",
+      "PackagePath": "staticwebassets\\vendor\\way_point\\shortcuts\\infinite.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\way_point\\shortcuts\\inview.js",
+      "PackagePath": "staticwebassets\\vendor\\way_point\\shortcuts\\inview.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\way_point\\shortcuts\\inview.min.js",
+      "PackagePath": "staticwebassets\\vendor\\way_point\\shortcuts\\inview.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\way_point\\shortcuts\\sticky.js",
+      "PackagePath": "staticwebassets\\vendor\\way_point\\shortcuts\\sticky.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\way_point\\shortcuts\\sticky.min.js",
+      "PackagePath": "staticwebassets\\vendor\\way_point\\shortcuts\\sticky.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\way_point\\waypoint.js",
+      "PackagePath": "staticwebassets\\vendor\\way_point\\waypoint.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\way_point\\waypoints.debug.js",
+      "PackagePath": "staticwebassets\\vendor\\way_point\\waypoints.debug.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\way_point\\zepto.waypoints.js",
+      "PackagePath": "staticwebassets\\vendor\\way_point\\zepto.waypoints.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\way_point\\zepto.waypoints.min.js",
+      "PackagePath": "staticwebassets\\vendor\\way_point\\zepto.waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\Admin\\wwwroot\\vendor\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\vendor\\wow\\wow.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Admin.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Admin.props",
+      "PackagePath": "build\\Admin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Admin.props",
+      "PackagePath": "buildMultiTargeting\\Admin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Admin.props",
+      "PackagePath": "buildTransitive\\Admin.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

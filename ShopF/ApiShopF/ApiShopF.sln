@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiShopF", "ApiShopF\ApiShopF.csproj", "{6FBA800B-B85E-4B0F-89FD-3E841D704EB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Admin", "Admin\Admin.csproj", "{14597A55-E74D-4846-9C50-E7508615805B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FBA800B-B85E-4B0F-89FD-3E841D704EB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FBA800B-B85E-4B0F-89FD-3E841D704EB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FBA800B-B85E-4B0F-89FD-3E841D704EB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FBA800B-B85E-4B0F-89FD-3E841D704EB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14597A55-E74D-4846-9C50-E7508615805B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14597A55-E74D-4846-9C50-E7508615805B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14597A55-E74D-4846-9C50-E7508615805B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14597A55-E74D-4846-9C50-E7508615805B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9A360C2-1E1C-478A-959C-2132EF5B5BC4}
+	EndGlobalSection
+EndGlobal

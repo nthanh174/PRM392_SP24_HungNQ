@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBA800B-B85E-4B0F-89FD-3E841D704EB7}|ApiShopF\\ApiShopF.csproj|c:\\users\\admin\\desktop\\prm392_sp24_hungnq\\shopf\\apishopf\\apishopf\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FBA800B-B85E-4B0F-89FD-3E841D704EB7}|ApiShopF\\ApiShopF.csproj|solutionrelative:apishopf\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBA800B-B85E-4B0F-89FD-3E841D704EB7}|ApiShopF\\ApiShopF.csproj|c:\\users\\admin\\desktop\\prm392_sp24_hungnq\\shopf\\apishopf\\apishopf\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FBA800B-B85E-4B0F-89FD-3E841D704EB7}|ApiShopF\\ApiShopF.csproj|solutionrelative:apishopf\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBA800B-B85E-4B0F-89FD-3E841D704EB7}|ApiShopF\\ApiShopF.csproj|c:\\users\\admin\\desktop\\prm392_sp24_hungnq\\shopf\\apishopf\\apishopf\\dto\\orderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FBA800B-B85E-4B0F-89FD-3E841D704EB7}|ApiShopF\\ApiShopF.csproj|solutionrelative:apishopf\\dto\\orderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBA800B-B85E-4B0F-89FD-3E841D704EB7}|ApiShopF\\ApiShopF.csproj|c:\\users\\admin\\desktop\\prm392_sp24_hungnq\\shopf\\apishopf\\apishopf\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FBA800B-B85E-4B0F-89FD-3E841D704EB7}|ApiShopF\\ApiShopF.csproj|solutionrelative:apishopf\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\ApiShopF\\DTO\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "ApiShopF\\DTO\\OrderDTO.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\ApiShopF\\DTO\\OrderDTO.cs",
+              "RelativeToolTip": "ApiShopF\\DTO\\OrderDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T23:33:02.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\ApiShopF\\DTO\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "ApiShopF\\DTO\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\ApiShopF\\DTO\\ProductDTO.cs",
+              "RelativeToolTip": "ApiShopF\\DTO\\ProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T23:32:55.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderDetailDTO.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\ApiShopF\\DTO\\OrderDetailDTO.cs",
+              "RelativeDocumentMoniker": "ApiShopF\\DTO\\OrderDetailDTO.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\ApiShopF\\DTO\\OrderDetailDTO.cs",
+              "RelativeToolTip": "ApiShopF\\DTO\\OrderDetailDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T23:32:39.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\ApiShopF\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ApiShopF\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\PRM392_SP24_HungNQ\\ShopF\\ApiShopF\\ApiShopF\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ApiShopF\\Controllers\\UserController.cs",
+              "ViewState": "AQIAALUAAAAAAAAAAAAIwGwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T22:52:41.263Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

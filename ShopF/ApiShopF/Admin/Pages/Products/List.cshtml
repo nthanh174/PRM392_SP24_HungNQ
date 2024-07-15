@@ -1,0 +1,215 @@
+﻿@page
+@model Admin.Pages.Products.ListModel
+@{
+}
+<section class="main container-fluid">
+    <div class="row">
+        <div class="col-12 col-lg-3 col-xl-2 sidebar vh-100">
+            <div class="d-flex justify-content-between align-items-center py-2 mt-3">
+                <div class="d-flex align-items-center">
+                    <span class="bg-primary p-2 rounded d-flex justify-content-center align-items-center mr-2">
+                        <i class="feather-shopping-bag text-white"></i>
+                    </span>
+                    <span class="font-weight-bolder h4 mb-0 mt-1 text-uppercase text-primary">
+                        my shop
+                    </span>
+                </div>
+                <button class="hide-sidebar-btn btn btn-light d-block d-lg-none">
+                    <i class="feather-x text-primary"></i>
+                </button>
+            </div>
+            <nav class="nav-menu">
+                <ul>
+                    <li class="menu-item">
+                        <a href="/Home" class="menu-item-link">
+                            <span> <i class="feather-home"></i> DashBoard </span>
+                        </a>
+                    </li>
+                    <li class="menu-spacer"></li>
+                    <li class="menu-title"><span>Manage Order</span></li>
+                    <li class="menu-item">
+                        <a href="/Orders/Add" class="menu-item-link">
+                            <span> <i class="feather-plus-circle"></i> Add Order </span>
+                        </a>
+                    </li>
+                    <li class="menu-item">
+                        <a href="/Orders/List" class="menu-item-link">
+                            <span> <i class="feather-list"></i> Order List </span>
+                            <span class="badge badge-pill bg-white shadow-sm text-primary p-1">15</span>
+                        </a>
+                    </li>
+                    <!-- stop -->
+                    <li class="menu-spacer"></li>
+                    <li class="menu-spacer"></li>
+                    <li class="menu-title"><span>Manage Product</span></li>
+                    <li class="menu-item">
+                        <a href="/Products/Add" class="menu-item-link">
+                            <span> <i class="feather-plus-circle"></i> Add Product </span>
+                        </a>
+                    </li>
+                    <li class="menu-item">
+                        <a href="/Products/List" class="menu-item-link">
+                            <span> <i class="feather-list"></i> Product List </span>
+                            <span class="badge badge-pill bg-white shadow-sm text-primary p-1">15</span>
+                        </a>
+                    </li>
+                    <li class="menu-spacer"></li>
+                    <li class="menu-spacer"></li>
+                    <li class="menu-title"><span>Manage Category</span></li>
+                    <li class="menu-item">
+                        <a href="/Categories/Add" class="menu-item-link">
+                            <span> <i class="feather-plus-circle"></i> Add Category </span>
+                        </a>
+                    </li>
+                    <li class="menu-item">
+                        <a href="/Categories/List" class="menu-item-link">
+                            <span> <i class="Categories/List"></i> Category List </span>
+                            <span class="badge badge-pill bg-white shadow-sm text-primary p-1">15</span>
+                        </a>
+                    </li>
+                    <li class="menu-spacer"></li>
+                    <li class="menu-spacer"></li>
+                    <li class="menu-title"><span>Manage User</span></li>
+                    <li class="menu-item">
+                        <a href="/Users/Add" class="menu-item-link">
+                            <span> <i class="feather-plus-circle"></i> Add User </span>
+                        </a>
+                    </li>
+                    <li class="menu-item">
+                        <a href="/Users/List" class="menu-item-link active">
+                            <span> <i class="feather-list"></i> User List </span>
+                            <span class="badge badge-pill bg-white shadow-sm text-primary p-1">15</span>
+                        </a>
+                    </li>
+                    <li class="menu-spacer"></li>
+                </ul>
+            </nav>
+        </div>
+        <div class="col-12 col-lg-9 col-xl-10 content py-3 vh-100">
+            <div class="row header mb-3">
+                <div class="col-12">
+                    <div class="p-2 bg-primary d-flex justify-content-between align-items-center rounded">
+                        <button class="show-sidebar-btn btn btn-primary d-block d-lg-none">
+                            <i class="feather-menu text-light"></i>
+                        </button>
+                        <form action="" class="d-none d-md-none d-lg-block">
+                            <div class="form-inline">
+                                <input type="text" class="form-control mr-2" />
+                                <button class="btn btn-light">
+                                    <i class="feather-search text-primary"></i>
+                                </button>
+                            </div>
+                        </form>
+                        <div class="dropdown">
+                            <button class="btn btn-light dropdown-toggle" type="button" id="dropdownMenuButton"
+                                    data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <img src="img/user/me.jpeg" class="user-img shadow-sm" alt="" />
+                                Chan Myae
+                            </button>
+                            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                <a class="dropdown-item" href="#">Action</a>
+                                <a class="dropdown-item" href="#">Another action</a>
+                                <div class="dropdown-divider"></div>
+                                <a class="dropdown-item" href="#">Logout</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- content area start -->
+            <div class="row">
+                <div class="col-12">
+                    <nav aria-label="breadcrumb">
+                        <ol class="breadcrumb bg-white mb-4">
+                            <li class="breadcrumb-item">
+                                <a href="dashboard.html">Home</a>
+                            </li>
+                            <li class="breadcrumb-item active" aria-current="page">
+                                Item List
+                            </li>
+                        </ol>
+                    </nav>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12">
+                    <div class="card mb-4">
+                        <div class="card-body">
+                            <div class="d-flex justify-content-between align-items-center">
+                                <h4 class="mb-0">
+                                    <i class="feather-list text-primary"></i> Item List
+                                </h4>
+                                <div class="">
+                                    <a href="#" class="btn btn-outline-secondary full-screen-btn">
+                                        <i class="feather-maximize-2"></i>
+                                    </a>
+                                    <a href="item-add.html" class="btn btn-outline-primary">
+                                        <i class="feather-plus-circle"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <hr />
+
+                        <table id="product-list" class="table table-striped table-responsive">
+                            <thead>
+                                <tr>
+                                    <th>Product Name</th>
+                                    <th>Category</th>
+                                    <th>Quantity</th>
+                                    <th>Price</th>
+                                    <th>Description</th>
+                                    <th>Actions</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var product in Model.Products)
+                                {
+                                    <tr id="product-row-@product.ProductId">
+                                        <td>@product.ProductName</td>
+                                        <td>@product.CategoryId</td>
+                                        <td>@product.Quantity</td>
+                                        <td>@product.Price</td>
+                                        <td>@product.Description</td>
+                                        <td class="center-align">
+                                            <a href="/Products/Edit?id=@product.ProductId"><i class="feather-edit-3 text-warning"></i></a>
+                                            <a href="javascript:void(0);" onclick="deleteProduct(@product.ProductId)"><i class="feather-trash-2 text-danger"></i></a>
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <!-- content area end -->
+        </div>
+    </div>
+</section>
+
+<script>
+    function deleteProduct(ProductId) {
+        if (confirm("Are you sure you want to delete this product?")) {
+            $.ajax({
+                url: "http://localhost:5000/api/Admin/Products/" + ProductId,
+                type: "DELETE",
+                success: function (result, status, xhr) {
+                    var row = document.getElementById("product-row-" + ProductId);
+                    if (row) {
+                        row.parentElement.removeChild(row);
+                    }
+                },
+                error: function (xhr, status, error) {
+                    console.error("Error deleting product:", xhr);
+                }
+            });
+        }
+    }
+</script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.9.2/umd/popper.min.js"></script>
+<script src="~/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="~/vendor/data_table/jquery.dataTables.min.js"></script>
+<script src="~/vendor/data_table/dataTables.bootstrap4.min.js"></script>
+<script src="~/js/item-list.js"></script>
